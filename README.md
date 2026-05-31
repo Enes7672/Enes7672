@@ -10,7 +10,7 @@ Süreç içerisinde karşılaştığım donanım kısıtlamalarını bir dezavan
 Tasarladığım asenkron ve modüler sistemlerin her ortamda izole, taşınabilir ve güvenli çalışması için süreçlerime Docker mimarisini dahil ettim. 🌐 Uygulamalarımı konteynerize ederek yerel geliştirme ortamlarından canlı sunuculara geçişteki uyumsuzlukları ortadan kaldırıyor; her dağıtımda aynı kararlılıkta ve tam performansla çalışan altyapılar kuruyorum.
 
 🎯 Öne Çıkan Yetkinliklerim
-🐍 İleri Seviye Python & Asenkron Mimari: Temiz, modüler, asenkron (asyncio) kod yazımı ve derin kod analizi yeteneği.
+🐍 Orta Seviye Python & Asenkron Mimari: Temiz, modüler, asenkron (asyncio) kod yazımı ve derin kod analizi yeteneği.
 
 🐳 Konteynerizasyon (Docker): Projeleri Dockerize ederek izole, taşınabilir çalışma ortamları ve mikroservis altyapıları tasarlama.
 
