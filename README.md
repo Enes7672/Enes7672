@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring Software Engineer | Backend Developer & Python Specialist
 
-For about three years, I've been deeply developing myself in the Python ecosystem; working on modern software architectures, scalable infrastructures, and high-performance backend systems. Going beyond simply writing code, I focus on deciphering the core logic behind systems, producing optimized solutions, and reflecting engineering discipline in every line of code. 🧠
+For about four years, I've been deeply developing myself in the Python ecosystem; working on modern software architectures, scalable infrastructures, and high-performance backend systems. Going beyond simply writing code, I focus on deciphering the core logic behind systems, producing optimized solutions, and reflecting engineering discipline in every line of code. 🧠
 
 ---
 
